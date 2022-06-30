@@ -1,4 +1,4 @@
--Medlytics is a responsive web app for analytics based Healthcare managemet.Major modules include homescreen, services,technology, testimonial, etc.
+-Playmart is a responsive landing page for e-commerce apps with modules namely product, feature, recommended-deal and contacts.
 
 -project page:https://kamalrossi.github.io/playmart/
 
